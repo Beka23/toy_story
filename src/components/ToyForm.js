@@ -14,7 +14,8 @@ function ToyForm({updateToyContainer}) {
       },
       body: JSON.stringify({
         name: name,
-        image: image
+        image: image,
+        likes: 0
       }),
     })
     .then(r => r.json())
