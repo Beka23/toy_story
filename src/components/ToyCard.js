@@ -41,4 +41,4 @@ function ToyCard({toy, onDelete, onUpdate}) {
   );
 }
 
-export default ToyCard
+export default ToyCard;
