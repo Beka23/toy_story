@@ -54,7 +54,7 @@ function ToyForm({updateToyContainer}) {
         />
       </form>
     </div>
-  );
+  )
 }
 
 export default ToyForm;
