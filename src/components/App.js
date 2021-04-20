@@ -48,7 +48,7 @@ function App() {
       </div>
       <ToyContainer toys={toys} onDelete={onDelete} onUpdate={onUpdate} />
     </>
-  );
+  )
 }
 
 export default App;
