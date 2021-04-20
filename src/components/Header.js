@@ -8,7 +8,7 @@ function Header() {
         alt="toy header"
       />
     </div>
-  );
+  )
 }
 
 export default Header
