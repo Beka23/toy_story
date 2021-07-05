@@ -9,6 +9,6 @@ function ToyContainer({toys, onDelete, onUpdate}) {
       })}
     </div>
   );
-}
+};
 
 export default ToyContainer;
