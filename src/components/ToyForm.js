@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from "react"
 
 function ToyForm({updateToyContainer}) {
   const [name, setName] = useState('')
@@ -57,4 +57,4 @@ function ToyForm({updateToyContainer}) {
   )
 }
 
-export default ToyForm;
+export default ToyForm
