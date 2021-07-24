@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState } from "react";
 
 import Header from "./Header";
 import ToyForm from "./ToyForm";
@@ -51,4 +51,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
