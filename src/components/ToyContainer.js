@@ -1,5 +1,5 @@
 import React from "react";
-import ToyCard from "./ToyCard"
+import ToyCard from "./ToyCard";
 
 function ToyContainer({toys, onDelete, onUpdate}) {
   return (
