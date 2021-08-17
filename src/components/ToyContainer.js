@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import ToyCard from "./ToyCard"
 
 function ToyContainer({toys, onDelete, onUpdate}) {
