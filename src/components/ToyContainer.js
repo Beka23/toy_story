@@ -11,4 +11,4 @@ function ToyContainer({toys, onDelete, onUpdate}) {
   );
 };
 
-export default ToyContainer
+export default ToyContainer;
