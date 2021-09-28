@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 function ToyCard({toy, onDelete, onUpdate}) {
   const {name, image, likes, id} = toy
